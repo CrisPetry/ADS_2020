@@ -1,0 +1,8 @@
+com\dados\entity\Venda.class
+com\dados\util\Conection.class
+com\dados\util\GerenciadorProjetos.class
+com\dados\util\IGerenciadorProjetos.class
+com\dados\entity\Livro.class
+com\dados\main\Principal.class
+com\dados\entity\Autor.class
+com\dados\entity\Usuario.class
